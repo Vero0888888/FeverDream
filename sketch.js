@@ -15,11 +15,11 @@ let quizBreak = true;
 
 /* PRELOAD LOADS FILES */
 function preload() {
-  sky = loadImage('/assets/Sky.png');
-  arrowLeftImg = loadImage('/assets/ArrowLeft.png');
-  arrowRightImg = loadImage('/assets/ArrowRight.png');
-  pigIntroImg = loadImage('/assets/PigIntro.png');
-  catIntroImg = loadImage('/assets/CatIntro.png');
+  sky = loadImage('assets/Sky.png');
+  arrowLeftImg = loadImage('assets/ArrowLeft.png');
+  arrowRightImg = loadImage('assets/ArrowRight.png');
+  pigIntroImg = loadImage('assets/PigIntro.png');
+  catIntroImg = loadImage('assets/CatIntro.png');
   duckIntroImg = loadImage('assets/duckIntro.png');
   levelMapImg = loadImage('assets/levelMap.png');
   levelPinImg = loadImage('assets/levelPin.png');
