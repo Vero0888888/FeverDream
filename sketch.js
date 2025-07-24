@@ -29,7 +29,7 @@ function preload() {
   tennisCourt = loadImage('assets/tennisCourt.jpg');
   racket1Img = loadImage('assets/RacketRight.png');
   racket2Img = loadImage('assets/RacketLeft.png');
-  tennisBallImg = loadImage('assets/tennisBall.png');
+  tennisBallImg = loadImage('assets/TennisBall.png');
   trophyImg = loadImage('assets/trophy.png');
   pigQuizImg = loadImage('assets/PigGame.png');
   catQuizImg = loadImage('assets/CatGame.png');
